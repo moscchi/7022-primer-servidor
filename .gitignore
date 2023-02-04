@@ -1,0 +1,3 @@
+node_modules
+archivo*
+#aca si se fijan lo que hago es decirle: "todo lo que empieza con archivo" + (el * es un comodin, significa que todo lo que sigue) ignoralo
